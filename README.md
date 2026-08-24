@@ -4,6 +4,11 @@ Ensemble machine learning comparison for heart disease classification using Pyth
 
 An end-to-end supervised machine learning project comparing multiple ensemble learning algorithms for heart disease classification.
 
+## View the Project
+
+- [Interactive Kaggle Notebook](https://www.kaggle.com/code/julianchristianiii/heart-disease-ensemble-learning)
+- [GitHub Repository](https://github.com/julz37/heart-disease-ensemble-learning)
+
 ## Project Overview
 
 This project evaluates whether ensemble machine learning methods can improve predictive robustness and generalization over a single Decision Tree classifier.
